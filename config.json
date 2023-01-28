@@ -1,0 +1,16 @@
+{
+  "host": "",
+  "version": "",
+  "port": "",
+  "auth": "",
+  "username": "",
+  "password": "",
+  "messagehook": "",
+  "eventshook": "",
+  "token": "",
+  "prefix": "c.",
+  "ownername": "",
+  "successColor": "0x86fc74",
+  "errorColor": "0xfc7474",
+  "infoColor": "0xfc9474"
+}

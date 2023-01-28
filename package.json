@@ -1,0 +1,19 @@
+{
+  "name": "mineflayer-discord-bot",
+  "version": "1.0.0",
+  "description": "Control your mineflayer bot using discord",
+  "main": "src/index.js",
+  "dependencies": {
+    "@discordjs/rest": "^0.5.0",
+    "colors": "^1.4.0",
+    "discord.js": "^13.8.0",
+    "mineflayer": "^4.3.0",
+    "mineflayer-auto-eat": "^2.3.3",
+    "mineflayer-collectblock": "^1.4.1",
+    "mineflayer-pathfinder": "^2.1.1",
+    "mineflayer-pvp": "^1.2.1",
+    "request": "^2.88.2"
+  },
+  "author": "OBNinjaa",
+  "license": "ISC"
+}
